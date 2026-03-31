@@ -1,0 +1,2 @@
+TrustGraph packages agent context as versioned artifacts (Context Cores) bundling knowledge graphs, embeddings, provenance, and retrieval policies into one portable unit you pin, promote, and roll back like code. Graph + vector + relational storage behind a single backend, with ontology-aware retrieval and MCP integration. Deploys locally via Docker. The kind of infrastructure that makes stateless agents quietly obsolete. Apache 2.0.
+#contextEngineering #agentMemory #knowledgeGraphs #RAG
