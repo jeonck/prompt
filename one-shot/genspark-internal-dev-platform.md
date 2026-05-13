@@ -67,11 +67,13 @@ Kubernetes 배포
   ↓
 모니터링/로그/트레이싱 수집
   ↓
-Backstage + AI Agent로 피드백
-한 문장 비유
-이 구조를 비유하면,
+Backstage + AI Agent로 피드백  
 
-Backstage = “사내 개발자 운영센터”
-Kubernetes = “애플리케이션 공장”
-CI/CD + GitOps = “검수와 출고 시스템”
-AI Agent = “플랫폼 비서 + 운영 분석가”
+
+한 문장 비유  
+이 구조를 비유하면,  
+
+Backstage = “사내 개발자 운영센터”  
+Kubernetes = “애플리케이션 공장”  
+CI/CD + GitOps = “검수와 출고 시스템”  
+AI Agent = “플랫폼 비서 + 운영 분석가”  
