@@ -2,6 +2,7 @@
 Kubernetes, Backstage, CI/CD, AI Agent를 포함한 내부 개발자 플랫폼 아키텍처를 다이어그램 형태로 설명해줘  
 
 # 이미지  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7534f994-c125-4f3b-bf61-46c5bef8f805" />
 
 
 # 내용 
