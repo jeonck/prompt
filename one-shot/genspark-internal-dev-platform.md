@@ -45,7 +45,9 @@ GitOps CD: 원하는 상태를 안전하게 반영
 Kubernetes: 애플리케이션 실행 및 확장
 Observability / IAM / Secrets: 운영 통제와 보안 기반
 실무에서 자주 쓰는 추천 구조
-Copy개발자
+
+```
+개발자
   ↓
 Backstage 포털
   ├─ 서비스 카탈로그
@@ -68,7 +70,7 @@ Kubernetes 배포
 모니터링/로그/트레이싱 수집
   ↓
 Backstage + AI Agent로 피드백  
-
+```
 
 한 문장 비유  
 이 구조를 비유하면,  
