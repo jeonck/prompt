@@ -1,3 +1,4 @@
+```
 # USER INPUTS — FILL ONLY THIS SECTION
 ***Topic / Concept:*** [e.g. API Integration, Cloud Security, AI Agents, FinTech Analytics]
 ***Primary Color:*** [e.g. Blue, Purple, Emerald Green, Navy Blue]
@@ -274,3 +275,4 @@ The finished image should look like a ***premium modern 3D isometric SaaS techno
 * generous whitespace
 
 Match the quality and visual language commonly used in premium SaaS landing pages, modern technology presentations, AI startup websites, product marketing graphics, and professional technical articles.
+```
