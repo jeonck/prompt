@@ -1,6 +1,6 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/612a84a7-2fc6-4ffc-9612-ee456a77cccb" />
 
-
+``` 
 # USER INPUTS — FILL ONLY THIS SECTION
 ***Topic / Concept:*** AI Customer Support Automation
 ***Primary Color:*** Blue
@@ -277,3 +277,4 @@ The finished image should look like a ***premium modern 3D isometric SaaS techno
 * generous whitespace
 
 Match the quality and visual language commonly used in premium SaaS landing pages, modern technology presentations, AI startup websites, product marketing graphics, and professional technical articles.
+```
